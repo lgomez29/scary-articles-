@@ -7,7 +7,7 @@ p {
 }
 
 div {
-    -webkit-column-count: 1; /* Chrome, Safari, Opera */
-    -moz-column-count: 1; /* Google */
-    column-count: 1;
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Google */
+    column-count: 2;
 }
