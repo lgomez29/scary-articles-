@@ -1,9 +1,9 @@
 body {
-    background-color: blue;
+    background-color: black;
 }
 
 p {
- 
+    color:white;
 }
 div {
     -webkit-column-count: 2; /* Chrome, Safari, Opera */
